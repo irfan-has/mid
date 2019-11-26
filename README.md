@@ -1,0 +1,2 @@
+# mid
+tugas mid mobile
